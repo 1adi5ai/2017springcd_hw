@@ -1648,18 +1648,14 @@ select stl file: &lt;input type="file" id="file" /&gt; or drop stl file
 &lt;h2&gt;1.利用onshape畫出四連桿以及八連桿&lt;/h2&gt;
 &lt;h2&gt;2.將畫好的零件利用v-rep做連桿動作模擬&lt;/h2&gt;
 &lt;h1&gt;利用onshape畫出四連桿&lt;/h1&gt;
-&lt;p&gt;四連桿零件繪製&lt;/p&gt;
-&lt;iframe width="854" height="480" src="https://www.youtube.com/embed/10anXFJEKFU" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;四連桿零件繪製+組合
+&lt;iframe src="https://player.vimeo.com/video/222983912" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/222983912"&gt;國立虎尾科技大學_協同產品設計實習_設計二甲_40423137_陳慶豪_W6_四連桿&lt;/a&gt; from &lt;a href="https://vimeo.com/user45109608"&gt;40423137&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;八連桿零件繪製+組合&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/222984406" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;p&gt;四連桿零件組合&lt;/p&gt;
-&lt;iframe width="854" height="480" src="https://www.youtube.com/embed/ROYOwp8YztU" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/222984406"&gt;國立虎尾科技大學_協同產品設計實習_設計二甲_40423137_陳慶豪_W6_八連桿繪製零件+組合&lt;/a&gt; from &lt;a href="https://vimeo.com/user45109608"&gt;40423137&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;八連桿零件繪製(1)
-&lt;iframe width="854" height="480" src="https://www.youtube.com/embed/SKmf8IC9Qg8" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;八連桿零件繪製(2)
-&lt;iframe width="854" height="480" src="https://www.youtube.com/embed/bviJHLS75N0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;八連桿零件組合
-&lt;iframe width="854" height="480" src="https://www.youtube.com/embed/zklviILio1k" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;h2&gt;利用v-rep動作模擬&lt;/h2&gt;
 &lt;p&gt;四連桿動作模擬&lt;/p&gt;
 &lt;iframe width="854" height="480" src="https://www.youtube.com/embed/eLmBwPT2byk" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
@@ -1667,10 +1663,10 @@ select stl file: &lt;input type="file" id="file" /&gt; or drop stl file
 &lt;p&gt;八連桿動作模擬
 &lt;iframe width="854" height="480" src="https://www.youtube.com/embed/In2eRi1z6to" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</summary><category term="作業"></category></entry><entry><title>協同產品設計實習 第五週作業</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-di-wu-zhou-zuo-ye.html" rel="alternate"></link><published>2017-03-24T12:08:00+08:00</published><updated>2017-03-24T12:08:00+08:00</updated><author><name>40423137</name></author><id>tag:,2017-03-24:./xie-tong-chan-pin-she-ji-shi-xi-di-wu-zhou-zuo-ye.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
-&lt;h1&gt;v-rep設定單連桿運動影片&lt;/h1&gt;
-&lt;iframe src="https://player.vimeo.com/video/213730183" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;h1&gt;v-rep設定單連桿運動影片(在後半段)&lt;/h1&gt;
+&lt;iframe src="https://player.vimeo.com/video/222961828" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="https://vimeo.com/213730183"&gt;國立虎尾科技大學_協同產品設計實習_設計二甲_40423137_陳慶豪_W4_單連桿模擬.mp5&lt;/a&gt; from &lt;a href="https://vimeo.com/user45109608"&gt;40423137&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="作業"></category></entry><entry><title>協同產品設計實習 第四週作業</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-di-si-zhou-zuo-ye.html" rel="alternate"></link><published>2017-03-19T12:08:00+08:00</published><updated>2017-03-19T12:08:00+08:00</updated><author><name>40423137</name></author><id>tag:,2017-03-19:./xie-tong-chan-pin-she-ji-shi-xi-di-si-zhou-zuo-ye.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/222961828"&gt;國立虎尾科技大學_協同產品設計實習_設計二甲_40423137_陳慶豪_W5_單連桿導入+模擬&lt;/a&gt; from &lt;a href="https://vimeo.com/user45109608"&gt;40423137&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="作業"></category></entry><entry><title>協同產品設計實習 第四週作業</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-di-si-zhou-zuo-ye.html" rel="alternate"></link><published>2017-03-19T12:08:00+08:00</published><updated>2017-03-19T12:08:00+08:00</updated><author><name>40423137</name></author><id>tag:,2017-03-19:./xie-tong-chan-pin-she-ji-shi-xi-di-si-zhou-zuo-ye.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;p&gt;#第四週作業
     &lt;P&gt; 1. 利用網誌與簡報說明安裝或使用 Hyperworks 套件過程與心得 - 課程結束前, 希望能夠使用 Hyperworks 進行連桿機構零件的應力分析與機構運動模擬.&lt;/P&gt;
@@ -2022,7 +2018,7 @@ cgo.playAnimation()
 &lt;p&gt;&lt;a href="https://vimeo.com/222960954"&gt;國立虎尾科技大學_協同產品設計實習_設計二甲_40423137_陳慶豪_W4_單連桿製作&lt;/a&gt; from &lt;a href="https://vimeo.com/user45109608"&gt;40423137&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
 &lt;section&gt;
-&lt;h1&gt;單連桿導入+模擬&lt;/h1&gt;
+&lt;h1&gt;單連桿導入加模擬&lt;/h1&gt;
 
 &lt;iframe src="https://player.vimeo.com/video/222961828" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/222961828"&gt;國立虎尾科技大學_協同產品設計實習_設計二甲_40423137_陳慶豪_W5_單連桿導入+模擬&lt;/a&gt; from &lt;a href="https://vimeo.com/user45109608"&gt;40423137&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="作業"></category></entry><entry><title>協同產品設計實習 第三週作業</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-di-san-zhou-zuo-ye.html" rel="alternate"></link><published>2017-03-12T12:08:00+08:00</published><updated>2017-03-12T12:08:00+08:00</updated><author><name>40423137</name></author><id>tag:,2017-03-12:./xie-tong-chan-pin-she-ji-shi-xi-di-san-zhou-zuo-ye.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
