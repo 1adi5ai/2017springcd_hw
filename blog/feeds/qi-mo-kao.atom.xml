@@ -7,7 +7,6 @@
 &lt;h1&gt;2. Solvespace 2D 繪圖 程式碼&lt;/h1&gt;
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/jDqaF4ilxTA" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;hr /&gt;
 &lt;!-- 導入 Brython 標準程式庫 --&gt;
 
 &lt;p&gt;&lt;script src="../data/Brython-3.3.1/brython.js"&gt;&lt;/script&gt;
@@ -142,7 +141,6 @@ pa = 20
 Spur(ctx).Gear(x, y, r, n, pa, "blue")
 &lt;/script&gt;
 
-&lt;hr /&gt;
 &lt;h1&gt;4.Solvespace 近端零組件繪圖&lt;/h1&gt;
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/gOe0YsYp1wI" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
