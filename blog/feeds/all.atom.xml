@@ -150,31 +150,15 @@ Spur(ctx).Gear(x, y, r, n, pa, "blue")
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/VKglvdMw9bU" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;h1&gt;6.期末分組專題&lt;/h1&gt;
-&lt;p&gt;我是主要做建構的部分，經過討論我們選用3D列印來當主體材料，連桿部分找的是仿生獸的連桿機構，連桿尺寸是參考當時原作者的設計去做比例縮放，縮放成這樣的大小，內部齒輪傳動有使用傳動比去做動力放大，主體分成2半，使用2顆伺服馬達去做動力來源，所以此機構能夠做左右轉向的行動，外型的設計純粹是自己設計的，並無參考網路資料，如果有雷同處，我也只能說我跟他有著相同的想法而已&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://40423137.github.io/2017springcd_hw/blog/ag1_fang-sheng-zi-zou-shou.html"&gt;期末分組專題_AG1&lt;/a&gt;&lt;/p&gt;
 &lt;h1&gt;7.上傳 Fossil SCM 倉儲&lt;/h1&gt;
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/LlDPU-2Oyh0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="期末協同查驗與自評"></category></entry><entry><title>AG1_仿生自走獸</title><link href="./ag1_fang-sheng-zi-zou-shou.html" rel="alternate"></link><published>2017-06-21T12:08:00+08:00</published><updated>2017-06-21T12:08:00+08:00</updated><author><name>40423137</name></author><id>tag:,2017-06-21:./ag1_fang-sheng-zi-zou-shou.html</id><summary type="html">&lt;p&gt;利用仿生獸的機構原理,利用到行走機構上
-&lt;/p&gt;
-&lt;p&gt;在學期初，老師有交代每組要做出一台四足行走機構，且要想辦法使其能夠行走。
-於是大家不眠不休地討論 、研究、尋找還有後來專業的畫圖跟列印。才有今天的四足行走機構！&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/LlDPU-2Oyh0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="期末協同查驗與自評"></category></entry><entry><title>AG1_仿生自走獸</title><link href="./ag1_fang-sheng-zi-zou-shou.html" rel="alternate"></link><published>2017-06-21T12:08:00+08:00</published><updated>2017-06-21T12:08:00+08:00</updated><author><name>40423137</name></author><id>tag:,2017-06-21:./ag1_fang-sheng-zi-zou-shou.html</id><summary type="html">&lt;h1&gt;AG1_仿生自走獸&lt;/h1&gt;
+&lt;h2&gt;1.期末分組專題連結：&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://40423105.github.io/2017springcd_hw/blog/qi-mo-fen-zu-zhuan-ti-ag1_fang-sheng-zi-zou-shou.html"&gt;AG1_仿生自走獸&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;工作分配:&lt;/p&gt;
 
-&lt;p&gt;40423105:利用vrep模擬機構,撰寫行走程式&lt;/p&gt;
-
-&lt;p&gt;40423119:利用vrep模擬機構&lt;/p&gt;
-
-&lt;p&gt;40423128:利用vrep模擬機構&lt;/p&gt;
-
-&lt;p&gt;40423130:組裝,給予意見&lt;/p&gt;
-
-&lt;p&gt;40423133:組裝,給予意見&lt;/p&gt;
-
-&lt;p&gt;40423137:繪製零件圖檔,組裝,製作動畫,零件3D列印&lt;/p&gt;
-
-&lt;p&gt;40423144:組裝,給予意見,製作網頁&lt;/p&gt;
-
-&lt;p&gt;40443111:組裝,給予意見&lt;/p&gt;
-
+&lt;h2&gt;2.分配工作&lt;/h2&gt;
+&lt;p&gt;我是主要做建構的部分，經過討論我們選用3D列印來當主體材料，連桿部分找的是仿生獸的連桿機構，連桿尺寸是參考當時原作者的設計去做比例縮放，縮放成這樣的大小，內部齒輪傳動有使用傳動比去做動力放大，主體分成2半，使用2顆伺服馬達去做動力來源，所以此機構能夠做左右轉向的行動，外型的設計純粹是自己設計的，並無參考網路資料，如果有雷同處，我也只能說我跟他有著相同的想法而已&lt;/p&gt;
 &lt;h2&gt;等角視圖&lt;/h2&gt;
 
 &lt;p&gt;&lt;p&gt;&lt;img src="./../final/fourbar/ag1_1.jpg" width="800" height="600" /&gt;&lt;/p&gt;&lt;/p&gt;
@@ -195,13 +179,16 @@ Spur(ctx).Gear(x, y, r, n, pa, "blue")
 
 &lt;p&gt;&lt;p&gt;&lt;img src="./../final/fourbar/ag1_5.jpg" width="800" height="600" /&gt;&lt;/p&gt;&lt;/p&gt;
 
-&lt;h2&gt;測試影片&lt;/h2&gt;
-
-&lt;p&gt;&lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/1uautiDWBz4" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;p&gt;&lt;/p&gt;
 &lt;h2&gt;模擬影片&lt;/h2&gt;
+
 &lt;p&gt;&lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/12Tex9wk5eQ" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;p&gt;&lt;/p&gt;
-&lt;h2&gt;Arduino程式碼&lt;/h2&gt;
-&lt;script src="https://gist.github.com/anonymous/0273cb124a81e1bd0885313848b263b4.js"&gt;&lt;/script&gt;</summary><category term="行走機構"></category></entry><entry><title>協同產品設計實習 第十三週作業</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-di-shi-san-zhou-zuo-ye.html" rel="alternate"></link><published>2017-05-19T12:08:00+08:00</published><updated>2017-05-19T12:08:00+08:00</updated><author><name>40423137</name></author><id>tag:,2017-05-19:./xie-tong-chan-pin-she-ji-shi-xi-di-shi-san-zhou-zuo-ye.html</id><summary type="html">&lt;p&gt;1.繪製2D 正齒輪(17t-11t-13t-14t)
+
+&lt;h2&gt;TEST影片&lt;/h2&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/V53qrXlRgLM" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;正齒輪1~3繪製影片&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/PhBmiS6bcko" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="行走機構"></category></entry><entry><title>協同產品設計實習 第十三週作業</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-di-shi-san-zhou-zuo-ye.html" rel="alternate"></link><published>2017-05-19T12:08:00+08:00</published><updated>2017-05-19T12:08:00+08:00</updated><author><name>40423137</name></author><id>tag:,2017-05-19:./xie-tong-chan-pin-she-ji-shi-xi-di-shi-san-zhou-zuo-ye.html</id><summary type="html">&lt;p&gt;1.繪製2D 正齒輪(17t-11t-13t-14t)
 &lt;/p&gt;
 &lt;h2&gt;1.繪製2D 正齒輪(17t-11t-13t-14t)&lt;/h2&gt;
 &lt;!-- 導入 Brython 標準程式庫 --&gt;
