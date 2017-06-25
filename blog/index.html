@@ -290,19 +290,39 @@ init_mathjax();
 
 <iframe src="./../w17/40423137.html" width="800" height="600"></iframe>
 
-<h1>2.</h1>
-<p>solvespace 2D 繪圖 程式碼</p>
-<h1>4.Solvespace 近端零組件繪圖</h1>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOe0YsYp1wI" frameborder="0" allowfullscreen></iframe>
+<h1>2. Solvespace 2D 繪圖 程式碼</h1>
+<hr />
+<!-- 導入 Brython 標準程式庫 -->
 
-<iframe src="./../w17/40423137-2.html" width="800" height="600"></iframe>
+<p><script src="../data/Brython-3.3.1/brython.js"></script>
+<script src="../data/Brython-3.3.1/brython_stdlib.js"></script></p>
+<!-- 啟動 Brython -->
 
-<h1>5.Solvespace 零件轉入 V-rep</h1>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VKglvdMw9bU" frameborder="0" allowfullscreen></iframe>
+<script>
+window.onload=function(){
+// 設定 data/py 為共用程式路徑
+brython({debug:1, pythonpath:['./../data/py']});
+}
+</script>
 
-<h1>6.期末分組專題</h1>
-<p>我是主要做建構的部分，經過討論我們選用3D列印來當主體材料，連桿部分找的是仿生獸的連桿機構，連桿尺寸是參考當時原作者的設計去做比例縮放，縮放成這樣的大小，內部齒輪傳動有使用傳動比去做動力放大，主體分成2半，使用2顆伺服馬達去做動力來源，所以此機構能夠做左右轉向的行動，外型的設計純粹是自己設計的，並無參考網路資料，如果有雷同處，我也只能說我跟他有著相同的想法而已</p>
-<h1>7.上傳 Fossil SCM 倉儲</h1>
+<!-- 以下實際利用  Brython 繪圖-->
+
+<canvas id="onegear2" width="800" height="600"></canvas>
+
+<div id="onegear_div" width="800" height="20"></div>
+
+<script type="text/python3">
+from browser import document as doc
+import math
+# deg 為角度轉為徑度的轉換因子
+deg = math.pi/180.
+# 定義 Spur 類別
+class Spur(object):
+    def __init__(self, ctx):
+        self.ctx = ctx
+
+# 設定畫線參數 
+    def ...</script></!--></!--></!-->
                     <a class="btn btn-default btn-xs" href="./40423137_qi-mo-xie-tong-cha-yan-yu-zi-ping.html">more ...</a>
                 </div>
             </article>
