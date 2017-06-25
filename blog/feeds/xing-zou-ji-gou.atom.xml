@@ -1,11 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017協同產品設計實習 設計二甲 40423137 陳慶豪</title><link href="./" rel="alternate"></link><link href="./feeds/xing-zou-ji-gou.atom.xml" rel="self"></link><id>./</id><updated>2017-06-21T12:08:00+08:00</updated><entry><title>AG1_仿生自走獸</title><link href="./ag1_fang-sheng-zi-zou-shou.html" rel="alternate"></link><published>2017-06-21T12:08:00+08:00</published><updated>2017-06-21T12:08:00+08:00</updated><author><name>40423137</name></author><id>tag:,2017-06-21:./ag1_fang-sheng-zi-zou-shou.html</id><summary type="html">&lt;h1&gt;AG1_仿生自走獸&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017協同產品設計實習 設計二甲 40423137 陳慶豪</title><link href="./" rel="alternate"></link><link href="./feeds/xing-zou-ji-gou.atom.xml" rel="self"></link><id>./</id><updated>2017-06-21T12:08:00+08:00</updated><entry><title>AG1_仿生自走獸</title><link href="./ag1_fang-sheng-zi-zou-shou.html" rel="alternate"></link><published>2017-06-21T12:08:00+08:00</published><updated>2017-06-21T12:08:00+08:00</updated><author><name>40423137</name></author><id>tag:,2017-06-21:./ag1_fang-sheng-zi-zou-shou.html</id><summary type="html">&lt;p&gt;1.期末分組專題&lt;/p&gt;
+&lt;p&gt;2.分配工作&lt;/p&gt;
+&lt;p&gt;(a)V-rep模擬&lt;/p&gt;
+&lt;p&gt;(b)Onshape協同繪圖&lt;/p&gt;
+
+
+&lt;p&gt;以下是學號建立帳號 Youtube 與 Vimeo。&lt;/p&gt;
+&lt;p&gt;Youtube影片連結：
+&lt;a href="https://www.youtube.com/channel/UCAakI7RrExU7gAyhMF3FUEg"&gt;陳慶豪&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Vimeo影片連結：
+&lt;a href="https://vimeo.com/user45109608"&gt;40423137&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;AG1_仿生自走獸&lt;/h1&gt;
 &lt;h2&gt;1.期末分組專題連結：&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://40423105.github.io/2017springcd_hw/blog/qi-mo-fen-zu-zhuan-ti-ag1_fang-sheng-zi-zou-shou.html"&gt;AG1_仿生自走獸&lt;/a&gt;&lt;/p&gt;
-
+&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h2&gt;2.分配工作&lt;/h2&gt;
 &lt;p&gt;我是主要做建構的部分，經過討論我們選用3D列印來當主體材料，連桿部分找的是仿生獸的連桿機構，連桿尺寸是參考當時原作者的設計去做比例縮放，縮放成這樣的大小，內部齒輪傳動有使用傳動比去做動力放大，主體分成2半，使用2顆伺服馬達去做動力來源，所以此機構能夠做左右轉向的行動，外型的設計純粹是自己設計的，並無參考網路資料，如果有雷同處，我也只能說我跟他有著相同的想法而已&lt;/p&gt;
+&lt;h2&gt;正齒輪1~3繪製影片&lt;/h2&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/PhBmiS6bcko" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;h2&gt;TEST影片&lt;/h2&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/V53qrXlRgLM" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;h2&gt;等角視圖&lt;/h2&gt;
 
 &lt;p&gt;&lt;p&gt;&lt;img src="./../final/fourbar/ag1_1.jpg" width="800" height="600" /&gt;&lt;/p&gt;&lt;/p&gt;
@@ -28,11 +45,4 @@
 
 &lt;h2&gt;模擬影片&lt;/h2&gt;
 
-&lt;p&gt;&lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/12Tex9wk5eQ" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;p&gt;&lt;/p&gt;
-
-&lt;h2&gt;TEST影片&lt;/h2&gt;
-
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/V53qrXlRgLM" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;正齒輪1~3繪製影片&lt;/p&gt;
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/PhBmiS6bcko" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="行走機構"></category></entry></feed>
+&lt;p&gt;&lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/12Tex9wk5eQ" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;p&gt;&lt;/p&gt;</summary><category term="行走機構"></category></entry></feed>
