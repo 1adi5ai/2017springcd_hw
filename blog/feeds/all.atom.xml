@@ -1070,10 +1070,8 @@ ctx.stroke()
 
 &lt;h2&gt;4.影片&lt;/h2&gt;
 &lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/219786602" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/219786602"&gt;國立虎尾科技大學_協同產品設計實習_設計二甲_40423137_陳慶豪_協同產品設計實習第十五週練習&lt;/a&gt; from &lt;a href="https://vimeo.com/user45109608"&gt;40423137&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="作業"></category></entry><entry><title>協同產品設計實習 第十一週作業</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-di-shi-yi-zhou-zuo-ye.html" rel="alternate"></link><published>2017-05-08T12:00:00+08:00</published><updated>2017-05-08T12:00:00+08:00</updated><author><name>40423137</name></author><id>tag:,2017-05-08:./xie-tong-chan-pin-she-ji-shi-xi-di-shi-yi-zhou-zuo-ye.html</id><summary type="html">&lt;p&gt;1.協同閱讀寫心得(two books)&lt;/p&gt;
-&lt;p&gt;2.影片觀看心得&lt;/p&gt;
-&lt;p&gt;3.2D 靜態網際繪圖-3D 減速齒輪組動態模擬&lt;/p&gt;
-&lt;p&gt;4.行走機構設計實作&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/219786602"&gt;國立虎尾科技大學_協同產品設計實習_設計二甲_40423137_陳慶豪_協同產品設計實習第十五週練習&lt;/a&gt; from &lt;a href="https://vimeo.com/user45109608"&gt;40423137&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="作業"></category></entry><entry><title>協同產品設計實習 第十一週作業</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-di-shi-yi-zhou-zuo-ye.html" rel="alternate"></link><published>2017-05-08T12:00:00+08:00</published><updated>2017-05-08T12:00:00+08:00</updated><author><name>40423137</name></author><id>tag:,2017-05-08:./xie-tong-chan-pin-she-ji-shi-xi-di-shi-yi-zhou-zuo-ye.html</id><summary type="html">&lt;p&gt;.2D 靜態網際繪圖-3D 減速齒輪組動態模擬&lt;/p&gt;
+&lt;p&gt;.行走機構設計實作&lt;/p&gt;
 
 
 &lt;!-- 導入 Brython 標準程式庫 --&gt;
@@ -1382,10 +1380,7 @@ import add //導入 add.py&lt;/p&gt;
 &lt;p&gt;print(sum) //輸出結果
 &lt;/pre&gt;
 +法運算測試影片&lt;/p&gt;
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/qCmBzuyp-Tg" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;h1&gt;網頁測試加法&lt;/h1&gt;
-&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Xoo-7YdQJNM" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;!-- 導入 Brython 標準程式庫 --&gt;
 
@@ -1662,7 +1657,7 @@ select stl file: &lt;input type="file" id="file" /&gt; or drop stl file
 &lt;h1&gt;四連桿動作模擬&lt;/h1&gt;
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/LVwCCngaevo" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;p&gt;八連桿動作模擬&lt;/p&gt;</summary><category term="作業"></category></entry><entry><title>協同產品設計實習 第五週作業</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-di-wu-zhou-zuo-ye.html" rel="alternate"></link><published>2017-03-24T12:08:00+08:00</published><updated>2017-03-24T12:08:00+08:00</updated><author><name>40423137</name></author><id>tag:,2017-03-24:./xie-tong-chan-pin-she-ji-shi-xi-di-wu-zhou-zuo-ye.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;h1&gt;八連桿動作模擬&lt;/h1&gt;</summary><category term="作業"></category></entry><entry><title>協同產品設計實習 第五週作業</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-di-wu-zhou-zuo-ye.html" rel="alternate"></link><published>2017-03-24T12:08:00+08:00</published><updated>2017-03-24T12:08:00+08:00</updated><author><name>40423137</name></author><id>tag:,2017-03-24:./xie-tong-chan-pin-she-ji-shi-xi-di-wu-zhou-zuo-ye.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h1&gt;v-rep設定單連桿運動影片(在後半段)&lt;/h1&gt;
 &lt;iframe src="https://player.vimeo.com/video/222961828" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
