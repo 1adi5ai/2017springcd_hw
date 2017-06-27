@@ -141,6 +141,9 @@ pa = 20
 Spur(ctx).Gear(x, y, r, n, pa, "blue")
 &lt;/script&gt;
 
+&lt;h1&gt;3.各組員倉儲中的子模組建立與運用&lt;/h1&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/YViE1s3J_vg" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
 &lt;h1&gt;4.Solvespace 近端零組件繪圖&lt;/h1&gt;
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/gOe0YsYp1wI" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
